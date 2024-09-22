@@ -1,2 +1,4 @@
-# LNA-and-DRO-Design-
-The Design Process of an LNA and DRO using AWR
+# LNA-and-DRO-Design
+The project focuses on designing a low-noise RF frequency oscillator and amplifier. It includes designing an amplifier with a small signal at the operating point and an oscillator at the operating point with both small and large signals.
+ Low-noise oscillators and amplifiers are crucial in modern reception systems, where high sensitivity is essential. These components have a direct impact on performance.
+ In this project, I explored design methods that enhanced the performance of these components. The project will outline the stages and considerations involved in designing the low-noise oscillator and amplifier, ensuring they meet predefined requirements and criteria. After the design phase, comprehensive simulations using  AWR were conducted to evaluate the performance of the components and verify their adherence to the criteria.
